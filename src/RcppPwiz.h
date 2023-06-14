@@ -1,3 +1,4 @@
+#include <cstdint>
 #ifndef _mzR_RCPP_PWIZ_H
 #define _mzR_RCPP_PWIZ_H
 
